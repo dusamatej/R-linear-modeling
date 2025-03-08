@@ -14,3 +14,5 @@ Upon going over the whole process of building the model and seeing that the mode
 The linear regression equation is: healthy life expectancy at birth = -27.83 +9.33*log GDP per capita
 
 Creating knowledge about happiness would start with gathering data, many times through surveys, experiments, and then sharing it publicly for everyone This data is carefully analyzed and put together into a report that goes through peer review before it’s published in a scholarly journal. This diffiicult process gives credibility but reaches mainly experts and academics at first. Over time, as the findings of the study are shared better, they can influence not just further research, but also real-world policy and public opinion. This can have a significant impact despite the specialized start.
+
+Full paper at: https://portfolium.com/entry/statistical-modeling-final
